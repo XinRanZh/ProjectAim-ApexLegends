@@ -1,6 +1,11 @@
 # ProjectAim-ApexLegends
 An efficient Apex Legends Aimbot based on YoloV5 real-time target detection
 
+## Credit to
+YOLO V5 https://github.com/ultralytics/yolov5
+
+Apex Dataset https://github.com/goldjee/AL-YOLO-dataset
+
 ## What you need
 
 A CUDA Compatible GPU, Graphics cards with lower performance than RTX3060 may not work perfect
